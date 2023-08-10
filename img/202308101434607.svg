@@ -1,0 +1,253 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="412px" height="462px" viewBox="-0.5 -0.5 412 462" content="&lt;mxfile&gt;&lt;diagram id=&quot;GXT3sVXVfbWYTwlUGnK_&quot; name=&quot;第 1 页&quot;&gt;7VtLc6M4EP41qto9eItHsOGIH8kcZramKlW7Zxlko4pArJBje379SkhgsMGJ19ibzCiHRLTU3dL3tVrI7gB3lu6eGMyTbzRGBDhWvAPuHDjO2BqL31KwVwJnMlGCNcOxEtkHwTP+gbTQ0tINjlHRGsgpJRznbWFEswxFvCWDjNFte9iKkrbXHK7RieA5guRU+jeOeaKkvjM5yL8gvE4qz/Y4UD0prAbrlRQJjOm2IXIXwJ0xSrlqpbsZIhK7Chel99jTW0+MoYy/R8FVCq+QbPTagDMmQnUa41c5P77Xix7/s5GTmi5h9LJmdJPFo4gSyoAbinFsvfzN8TzgzMRDs/G7UBEtgjM0SjQmUsEO8l3ZVdkVrbX+e9b/5Ro/h2+OdnwECV5nyhBBK6UmwjfjoxVMMdmrrhnNCkpgoUgQJmCai6Ha0IxuGEZM9PyJtsedSiWlGS1yGKGGg6LcheUSHt5YglDNOtfQCBjguL4lfzotwRz/hViBaVbZFCGszGpX2shFDqW71arHoUgdzuOr3efvIC4JMpydWHrBWXwntuYoJ3Sfyhxn6PqPdKWIwxhyeI6ynxdEZSxbFrlSHQ7XDKboTtsgW+NsN4rNZriatCJHkdkIw26EAhHx7i3GGlybzm8BtbhWRMlXuESkMGj3o307AsTro8n5nz9lMQErjuDZTXQxl4E/9vxOd64hb0DyOEpzAvnZl69fCtcbnjfm7vA/HjbEHPSXY2/O/l+If3Mr/OQpLhJThThDzKS5C/AfDcqB+SDr4zN+002IU/k16B0jQAyUL/CF4f9D8M9QIVYcIZODr2bkhpcBnGJuGLoFQ7e8P6eU7YdMrdC1PdvrA0pLbMf/hlsDTJb9JBET5Zu7h4tnWamJlo8VBzllJttfycaw16T6qvpdUDPkHj3zxYFv9Tk6y/+9pE5rdY4MLyFPeEqEwBZNHWvzSNz1RLi401fEOI4gCXVHiuNYqst3UPwDLktTVhn/OONl9aY3Bd5c2tpwqgKoNF1wRl/QTCE5j9EKbso5rjAhlTSjGaon2qyV1OWTcjZo1xDp2sknRFPE5cFt6V7Hs5TKvqpsVY/bQ1VoPSRpVIQ+VEKoK1HXtelDsaZo6HrN7trNh47azSPoZflhDUpVquq0ySg/Tp7WVZ1HILXxLC9xywANBZ/bhs9xnRP8hMNT/OwB4PPehq9IYC6b0YaR/ZQJjJCMpW2COXpWSWy+ZTBvA1rCiGL9tCI4/9KE+rsIVy4rG905Uyuqw//rUX+9DaoNozNz73a5mMs6rV3NpWe3ufQ6tkIXkxPveirHhspbUvleLuv0dw2Xfm9F+rI+YRZj4C9AOAELD/g+mI5lIwhA6MtGuABBCBYPYBoAP2gcUssLjqg2wBr1jkPk/UdZV6gd4st6k/IhiD06rmzH+cM7oTbooNYdgNngPcz6IHRA2ENx+Cg5FWOmNghtw2w/s643uR2z4vHwHypl39Ph33zcxb8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="21" y="10" width="250" height="450" fill="none" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 235px; margin-left: 146px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                <div style="background-color: rgb(255, 255, 255); line-height: 19px;">
+                                    <div style="">
+                                        <div style="line-height: 19px;">
+                                            <div style="">
+                                                <div style="line-height: 19px;">
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            apiVersion
+                                                        </span>
+                                                        :
+                                                        <span style="color: #0000ff;">
+                                                            apps/v1
+                                                        </span>
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            kind
+                                                        </span>
+                                                        :
+                                                        <span style="color: #0000ff;">
+                                                            Deployment
+                                                        </span>
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            metadata
+                                                        </span>
+                                                        :
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            name
+                                                        </span>
+                                                        :
+                                                        <span style="color: #0000ff;">
+                                                            nginx-deployment
+                                                        </span>
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            spec
+                                                        </span>
+                                                        :
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            selector
+                                                        </span>
+                                                        :
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            matchLabels
+                                                        </span>
+                                                        :
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            app
+                                                        </span>
+                                                        :
+                                                        <span style="color: #0000ff;">
+                                                            nginx-deployment
+                                                        </span>
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            replicas
+                                                        </span>
+                                                        :
+                                                        <span style="color: #098658;">
+                                                            3
+                                                        </span>
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            template
+                                                        </span>
+                                                        :
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            metadata
+                                                        </span>
+                                                        :
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            labels
+                                                        </span>
+                                                        :
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            app
+                                                        </span>
+                                                        :
+                                                        <span style="color: #0000ff;">
+                                                            nginx-deployment
+                                                        </span>
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            spec
+                                                        </span>
+                                                        :
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            containers
+                                                        </span>
+                                                        :
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        -
+                                                        <span style="color: #800000;">
+                                                            name
+                                                        </span>
+                                                        :
+                                                        <span style="color: #0000ff;">
+                                                            nginx-deployment
+                                                        </span>
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            image
+                                                        </span>
+                                                        :
+                                                        <span style="color: #0000ff;">
+                                                            nginx:latest
+                                                        </span>
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            resources
+                                                        </span>
+                                                        :
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            limits
+                                                        </span>
+                                                        :
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            memory
+                                                        </span>
+                                                        :
+                                                        <span style="color: #a31515;">
+                                                            "128Mi"
+                                                        </span>
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            cpu
+                                                        </span>
+                                                        :
+                                                        <span style="color: #a31515;">
+                                                            "500m"
+                                                        </span>
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        <span style="color: #800000;">
+                                                            ports
+                                                        </span>
+                                                        :
+                                                    </div>
+                                                    <div style="text-align: left; font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                                        -
+                                                        <span style="color: #800000;">
+                                                            containerPort
+                                                        </span>
+                                                        :
+                                                        <span style="color: #098658;">
+                                                            80
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="146" y="239" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    apiVersion: apps/v1...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1 187 L 301 187" fill="none" stroke="#00b9ee" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 301 0 L 296 0 Q 291 0 291 10 L 291 77.5 Q 291 87.5 286 87.5 L 283.5 87.5 Q 281 87.5 286 87.5 L 288.5 87.5 Q 291 87.5 291 97.5 L 291 165 Q 291 175 296 175 L 301 175" fill="none" stroke="#000000" stroke-miterlimit="10" transform="translate(291,0)scale(-1,1)translate(-291,0)" pointer-events="all"/>
+        <path d="M 301 200 L 296 200 Q 291 200 291 210 L 291 320 Q 291 330 286 330 L 283.5 330 Q 281 330 286 330 L 288.5 330 Q 291 330 291 340 L 291 450 Q 291 460 296 460 L 301 460" fill="none" stroke="#000000" stroke-miterlimit="10" transform="translate(291,0)scale(-1,1)translate(-291,0)" pointer-events="all"/>
+        <rect x="321" y="72.5" width="90" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 88px; margin-left: 322px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    控制器定义
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="366" y="91" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    控制器定义
+                </text>
+            </switch>
+        </g>
+        <rect x="321" y="307.5" width="90" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 323px; margin-left: 322px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    被控制对象
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="366" y="326" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    被控制对象
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
